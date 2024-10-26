@@ -57,3 +57,9 @@ To deploy and test GanacheTestnet, follow these steps:
 - Sepolia for a private Ethereum network
 - Web3.js for blockchain interaction
 - React for frontend development
+
+## Screenshots of the project
+![WhatsApp Image 2024-10-24 at 12 30 42_0e977a0e](https://github.com/user-attachments/assets/ad26b796-8301-44da-a896-d64f2c1f1f65)
+![WhatsApp Image 2024-10-24 at 12 30 52_390bceae](https://github.com/user-attachments/assets/44cceab7-063b-4105-996c-9bb88132b18d)
+
+
